@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/youtube/static/css/main.0aeedeff.chunk.css",
+    "main.js": "/youtube/static/js/main.7094f523.chunk.js",
+    "main.js.map": "/youtube/static/js/main.7094f523.chunk.js.map",
+    "runtime-main.js": "/youtube/static/js/runtime-main.548f8b75.js",
+    "runtime-main.js.map": "/youtube/static/js/runtime-main.548f8b75.js.map",
+    "static/js/2.ed8a3ff6.chunk.js": "/youtube/static/js/2.ed8a3ff6.chunk.js",
+    "static/js/2.ed8a3ff6.chunk.js.map": "/youtube/static/js/2.ed8a3ff6.chunk.js.map",
+    "static/js/3.6d0c09b9.chunk.js": "/youtube/static/js/3.6d0c09b9.chunk.js",
+    "static/js/3.6d0c09b9.chunk.js.map": "/youtube/static/js/3.6d0c09b9.chunk.js.map",
+    "index.html": "/youtube/index.html",
+    "static/css/main.0aeedeff.chunk.css.map": "/youtube/static/css/main.0aeedeff.chunk.css.map",
+    "static/js/2.ed8a3ff6.chunk.js.LICENSE.txt": "/youtube/static/js/2.ed8a3ff6.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/youtube/static/media/img-home-section1.77163afe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.548f8b75.js",
+    "static/js/2.ed8a3ff6.chunk.js",
+    "static/css/main.0aeedeff.chunk.css",
+    "static/js/main.7094f523.chunk.js"
+  ]
+}
